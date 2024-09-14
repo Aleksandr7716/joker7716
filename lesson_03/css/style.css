@@ -1,0 +1,29 @@
+body {
+background-color: rgb(72, 72, 224);
+}
+.introduction {
+	color: rgb(11, 212, 112);
+}
+.trevel {
+	color: brown;
+}
+li {
+	color: red;
+}
+#history, 
+#cousine, 
+#culture, 
+#introduction, 
+#trevel {
+	color: aliceblue;
+}
+div.cousine {
+	color: rgb(139, 0, 90);
+}
+.culture, 
+.history {
+	color: rgb(167, 229, 59);
+}
+.trevel li{
+	color: rgb(92, 14, 156);
+}
