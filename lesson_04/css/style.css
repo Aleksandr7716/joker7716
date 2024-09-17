@@ -1,0 +1,80 @@
+@import url("fonts.css");
+@import url("reset.css");
+
+.home-work {
+color: #860586;
+font-family: "Special Elite";
+font-size: 26px;
+text-align: center;
+text-decoration: underline;
+text-decoration-color: #091133;
+text-underline-offset: 10px;
+text-shadow: 3px 5px 3px #1E1B39;
+text-transform: uppercase;
+
+}
+
+.potfolio {
+	font-family: "Work Sans" sans-serif;
+	color: #556070;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 1.3;
+}
+
+.title-portfolio {
+	color: #132238;
+	font-size: 38px;
+	font-weight: 600;
+}
+
+.landing {
+color:  #505F98;
+	font-family: Roboto sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 1.6;
+}
+
+.landing-title {
+color: #091133;
+font-size: 50px;
+font-weight: 500;
+line-height: 1.32;
+letter-spacing: 1px;
+}
+
+.business {
+font-family: "DM Sans", sans-serif;
+color: #474464;
+font-size: 24px;
+font-weight: 400;
+line-height: 1.7;
+}
+
+.business-title {
+color: #1E1B39;
+font-size: 88px;
+font-weight: 700;
+line-height: 1.07;
+}
+
+.end-title {
+text-align: center;
+font-size: 24px;
+color: rgb(10, 156, 13);
+letter-spacing: 1.6px;
+text-transform: uppercase;
+text-shadow: 5px 5px 5px #223f02;
+}
+
+.end {
+font-family: "Roboto";
+color: aqua;
+font-size: 20px;
+word-spacing: nowrap;
+line-height: 1.6;
+text-transform: capitalize;
+font-weight: 700;
+
+}
