@@ -15,7 +15,7 @@ text-transform: uppercase;
 }
 
 .potfolio {
-	font-family: "Work Sans" sans-serif;
+	font-family: "Work Sans";
 	color: #556070;
 	font-size: 18px;
 	font-weight: 400;
@@ -72,7 +72,7 @@ text-shadow: 5px 5px 5px #223f02;
 font-family: "Roboto";
 color: aqua;
 font-size: 20px;
-word-spacing: nowrap;
+white-space: nowrap;
 line-height: 1.6;
 text-transform: capitalize;
 font-weight: 700;
